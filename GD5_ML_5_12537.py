@@ -8,7 +8,7 @@ import pickle
 
 st.set_page_config(
     page_title="Ames Housing Prediction",
-    page_icon="🏠 ",
+    page_icon="🏘️ ",
     layout="centered"
 )
 
